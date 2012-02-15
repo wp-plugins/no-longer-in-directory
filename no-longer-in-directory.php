@@ -47,7 +47,7 @@ function no_longer_in_directory_page() {
 	foreach ( $plugin_list_paths as &$value ) {
 		preg_match_all('/([a-z0-9\-]+)\//', $value, $plugin_path);
 		if ( in_array ($plugin_path[1][0], $disappeared_plugins )) {
-			//Check that plugin has not returned to the WordPress.org Plugin Directory since plugin list last generated.
+			//Check that plugin has not returned to the WordPress.org Plugin Directory since plugin list last generated
 			$directory_plugin_head = wp_remote_head('http://wordpress.org/extend/plugins/'.$plugin_path[1][0].'/');
 			if ( $directory_plugin_head [response][code] == "404" )
 				$no_longer_in_directory[] = $plugin_list[$value][Name];
