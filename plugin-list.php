@@ -80,6 +80,7 @@ ad-manager
 ad-peeps-banner-ad-rotator-for-wordpress
 ad-rotatez
 ad-space-manager
+ad-wizz
 ada-wpmu-sitewide-feed-plugin
 adauthx
 adbrite-widgets
@@ -398,6 +399,7 @@ animasig
 animated-clouds-lite
 animated-twitter-bird
 anime-sub-plugin
+annonces
 annotate
 announcement-and-vertical-scroll-news
 anonymous-commets
@@ -504,6 +506,7 @@ attachments-carousel
 attention-bar
 attractive-view-lite
 audigazmo
+audio
 audio-link-player
 audio-player-oogiechetos
 audio-player123
@@ -1350,6 +1353,7 @@ compras-en-linea
 compress-css
 compression-wp
 concrete
+conduit-banner-selector
 confidentcaptcha
 confirm-email
 confirm-save
@@ -2336,6 +2340,7 @@ featured-blog-authors
 featured-category-slideshow-fcs
 featured-comic
 featured-comments
+featured-content
 featured-content-gallery-2
 featured-content-gallery-plugin
 featured-content-gallery-widget
@@ -2389,6 +2394,7 @@ feedjit
 feedjit-widget-collection
 feedjit-widgets
 feedlinksanitizer
+feedlist
 feedmenow
 feednu
 feedposter
@@ -3973,6 +3979,7 @@ mediaman
 mediashowstyle-plugin
 mediastream
 mediax
+meenews
 meenews-newsletter
 meetup-feed2post
 mega-menu
@@ -4461,6 +4468,7 @@ nextgen-galleryview
 nextgen-imageflow
 nextgen-lzxviewer
 nextgen-slideshowpro
+nextgen-smooth-gallery
 nextpage
 nextpage-paragraph-tag-fix
 nfl-news-scroller
@@ -4572,6 +4580,7 @@ oblique-strategies
 oblique-strategy
 octazen-contacts-importer-friend-inviter
 od-eshop-plugin
+odihost-newsletter-plugin
 oempro
 off
 office-staff-locator
@@ -4771,6 +4780,7 @@ perisort
 permacop
 permalink-redirect-for-wordpress
 permalinker
+permalinks-migration-plugin-for-wordpress
 pers-yafl-plugin
 persian-add-to-social-bookmarking
 persian-buddypress
@@ -4923,6 +4933,7 @@ plugins-link-admin
 plugins-order
 plugins-update-notifier
 plugins-used-plugin-widget
+plugins/wp-starsratebox
 pluginsplugin-compatibility23
 pluginviadeo
 plugoo
@@ -5546,6 +5557,7 @@ rss-feed-extern
 rss-feed-extern-01-2010
 rss-feed-extern-1
 rss-feed-fix
+rss-feed-reader
 rss-feedstat-plugin
 rss-footer-extended
 rss-img
@@ -5723,6 +5735,7 @@ seo
 seo-1
 seo-arama
 seo-auto-linker-1
+seo-automatic-seo-tools
 seo-blogroll-by-category
 seo-comments
 seo-easy-optimizer
@@ -6200,6 +6213,7 @@ social-tagger
 social-widget
 socialbar
 socialbuttons
+socialgrid
 socialist
 socialize-me
 sociallogin
@@ -6940,6 +6954,7 @@ upleitor
 upload-image-to-ressimnet
 upload-mimes-config
 uploader
+uploader
 uploadify
 uploadviewer
 upm-polls
@@ -7090,6 +7105,7 @@ vn-lunar-calendar
 vocabutastic-widget-5-daily-vocab-words
 voda-sms
 vodpod
+vodpod-video-gallery
 voice-vault
 voiceforge-plug-in
 voldo-basic-video-gallery
@@ -7438,6 +7454,7 @@ wordpress-postmapper
 wordpress-posts-order
 wordpress-pregnancy-calculator
 wordpress-privacy-policy-widget
+wordpress-processing-embed
 wordpress-publisher
 wordpress-random-posts-plugin
 wordpress-random-quotes
@@ -7547,6 +7564,7 @@ wp-affiliate-iimage-tracker-advanced
 wp-affiliate-image-tracker
 wp-affiliates
 wp-ajax-modules
+wp-ajax-recent-posts
 wp-al-swfobject
 wp-alexadex
 wp-alexify
@@ -7676,6 +7694,7 @@ wp-cpanel-login-plugin
 wp-cpt-forum
 wp-create-view
 wp-cron-tool
+wp-css
 wp-cu3er
 wp-culumbus
 wp-cumulus-cn
@@ -7926,6 +7945,7 @@ wp-marketing-manager-optin-plugin
 wp-marketplace
 wp-member-site
 wp-memberemail
+wp-menu-creator
 wp-menu-extended
 wp-messenger
 wp-meta-cleaner
@@ -7997,6 +8017,7 @@ wp-paysite
 wp-pdftoxls-widget
 wp-performance-gettext-patch
 wp-petition
+wp-photo-album
 wp-photographer
 wp-photos
 wp-phpbb-thread-link-selector
@@ -8060,6 +8081,7 @@ wp-random-404
 wp-random-elements
 wp-random-posts-widget
 wp-realty
+wp-recentcomments
 wp-reciprocal-links
 wp-recomiendo
 wp-recommendation-slide
@@ -8089,6 +8111,7 @@ wp-rss-thumbnails
 wp-rss20-from-newsyandexru
 wp-rsspromote
 wp-s3-backup-uploads
+wp-safe-search
 wp-sales-automator
 wp-salesmagicians-vote-101
 wp-sape-stat-1-0
@@ -8404,6 +8427,7 @@ wysiwyg-comment-preview
 x-box-360-gamercard
 x-social-sharing
 x509-authentication
+x7host-videox7-ugc-plugin
 xbox-360-gamercard
 xbox-360-gamercard-plugin
 xbox-360-gamercards
@@ -8513,6 +8537,7 @@ youtubewordpresswidget
 youve-been-framed
 yoxview-gallery
 yr-weather
+yt-audio-streaming-audio-from-youtube
 ytcommunity-style-watcher
 yubikey
 yuewei

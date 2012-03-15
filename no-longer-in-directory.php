@@ -3,7 +3,7 @@
 Plugin Name: No Longer in Directory
 Plugin URI: http://www.whitefirdesign.com/no-longer-in-directory
 Description: Checks for installed plugins that are no longer in the WordPress.org Plugin Directory.
-Version: 1.0.1
+Version: 1.0.2
 Author: White Fir Design
 Author URI: http://www.whitefirdesign.com/
 License: GPLv2
@@ -42,6 +42,9 @@ function no_longer_in_directory_page() {
 	$plugin_path;
 	$no_longer_in_directory = array();
 	$disappeared_plugins = file(dirname( __FILE__ ) . '/plugin-list.php', FILE_IGNORE_NEW_LINES);
+	
+	//Clean array elements of extraneous characters
+	$disappeared_plugins = array_map( 'trim', $disappeared_plugins );
 
 	//Check for installed plugins that are no longer in the WordPress.org Plugin Directory
 	foreach ( $plugin_list_paths as &$value ) {
@@ -49,8 +52,8 @@ function no_longer_in_directory_page() {
 		if ( in_array ($plugin_path[1][0], $disappeared_plugins )) {
 			//Check that plugin has not returned to the WordPress.org Plugin Directory since plugin list last generated
 			$directory_plugin_head = wp_remote_head('http://wordpress.org/extend/plugins/'.$plugin_path[1][0].'/');
-			if ( $directory_plugin_head [response][code] == "404" )
-				$no_longer_in_directory[] = $plugin_list[$value][Name];
+			if ( $directory_plugin_head ['response']['code'] == "404" )
+				$no_longer_in_directory[$plugin_list[$value]['Name']]= $plugin_path[1][0];
 		}
 	}
 
@@ -59,10 +62,26 @@ function no_longer_in_directory_page() {
 	echo '<div id="icon-plugins" class="icon32"><br /></div>';	
 	echo '<h2>No Longer in Directory</h2><p>';
 	if ( !empty($no_longer_in_directory) ) {
+		
+		//Load Secunia advisories
+		$secunia_file = fopen(dirname( __FILE__ ) . '/secunia-advisories.php', "r");
+		$secunia_advisories = array();
+		while (!feof($secunia_file) ) { 
+			$line = fgetcsv($secunia_file, 1024, ","); 
+			$secunia_advisories[$line[0]] = $line[1]; 
+		}
+
 		_e('Installed plugins that are no longer in the WordPress.org Plugin Directory:');
 		echo '<br />';
-		foreach ( $no_longer_in_directory as &$plugin_name )
-			echo $plugin_name.'</li><br />';
+		foreach ( $no_longer_in_directory as $plugin_name => &$plugin_stub ) {
+			echo $plugin_name;
+
+			//Check for Secunia advisory
+			if (array_key_exists($plugin_stub, $secunia_advisories))
+				echo ' (<a href="'.$secunia_advisories[$plugin_stub].'" target="_blank">Secunia Advisory</a>)';
+			
+			echo '</li><br />';
+		}	
 	}
 	else 
 		_e('No installed plugins are no longer in the WordPress.org Plugin Directory.');
