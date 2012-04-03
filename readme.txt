@@ -42,6 +42,10 @@ The check is done using the plugin's directory (folder) name which could lead to
 
 == Changelog ==
 
+= 1.0.3 =
+
+* Refreshed removed plugin list with data from April 2, 2012
+
 = 1.0.2 =
 
 * Added links to Secunia Advisories
