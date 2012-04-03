@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: No Longer in Directory\n"
+"Report-Msgid-Bugs-To: http://www.whitefirdesign.com/no-longer-in-directory\n"
+"POT-Creation-Date: 2012-03-15 13:30-0700\n"
+"PO-Revision-Date: 2012-03-15 13:30-0700\n"
+"Last-Translator: White Fir Design <contact@whitefirdesign.com>\n"
+"Language-Team: White Fir Design <contact@whitefirdesign.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: no-longer-in-directory.php:74
+msgid "Installed plugins that are no longer in the WordPress.org Plugin Directory:"
+msgstr ""
+
+#: no-longer-in-directory.php:87
+msgid "No installed plugins are no longer in the WordPress.org Plugin Directory."
+msgstr ""
+
