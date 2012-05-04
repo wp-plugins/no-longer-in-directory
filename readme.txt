@@ -3,7 +3,7 @@ Contributors: WhiteFirDesign
 Donate link: https://supporters.eff.org/donate
 Tags: security, plugins
 Requires at least: 3.3.1
-Tested up to: 3.3.1
+Tested up to: 3.4
 Stable tag: trunk
 
 Checks for installed plugins that are no longer in the WordPress.org Plugin Directory.
@@ -28,6 +28,10 @@ To insure that plugins that have returned to the WordPress.org Plugin Directory 
 
 The check is done using the plugin's directory (folder) name which could lead to plugins that have never been in the plugin directory to be flagged if they use the same name as a plugin that was in the WordPress.org Plugin Directory. If you become aware of a plugin this happening to please contact us so that we can put a check in place to prevent that from happening anymore.
 
+**Supported Localizations:** Español, Français
+
+Please let us know if you are interested in us adding additional localizations.
+
 == Installation ==
 
 1. Copy plugin files to the plugins folder.
@@ -41,6 +45,11 @@ The check is done using the plugin's directory (folder) name which could lead to
 1. Plugin Page
 
 == Changelog ==
+
+= 1.0.4 =
+
+* Refreshed removed plugin list with data from May 3, 2012
+* Added French and Spanish localizations
 
 = 1.0.3 =
 

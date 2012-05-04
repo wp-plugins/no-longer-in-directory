@@ -3,10 +3,12 @@
 Plugin Name: No Longer in Directory
 Plugin URI: http://www.whitefirdesign.com/no-longer-in-directory
 Description: Checks for installed plugins that are no longer in the WordPress.org Plugin Directory.
-Version: 1.0.3
+Version: 1.0.4
 Author: White Fir Design
 Author URI: http://www.whitefirdesign.com/
 License: GPLv2
+Text Domain: no-longer-in-directory
+Domain Path: /languages
 
 Copyright 2012 White Fir Design
 
@@ -71,7 +73,7 @@ function no_longer_in_directory_page() {
 			$secunia_advisories[$line[0]] = $line[1]; 
 		}
 
-		_e('Installed plugins that are no longer in the WordPress.org Plugin Directory:');
+		_e('Installed plugins that are no longer in the WordPress.org Plugin Directory:', 'no-longer-in-directory');
 		echo '<br />';
 		foreach ( $no_longer_in_directory as $plugin_name => &$plugin_stub ) {
 			echo $plugin_name;
@@ -84,6 +86,6 @@ function no_longer_in_directory_page() {
 		}	
 	}
 	else 
-		_e('No installed plugins are no longer in the WordPress.org Plugin Directory.');
+		_e('No installed plugins are no longer in the WordPress.org Plugin Directory.', 'no-longer-in-directory');
 	echo '</p></div>';
 }
