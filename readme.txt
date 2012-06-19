@@ -46,6 +46,11 @@ Please let us know if you are interested in us adding additional localizations.
 
 == Changelog ==
 
+= 1.0.6 =
+
+* Refreshed removed plugin list with data from June 18, 2012
+* Updated Secunia Advisories list with recent advisories
+
 = 1.0.5 =
 
 * Refreshed removed plugin list with data from June 5, 2012
