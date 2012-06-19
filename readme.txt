@@ -18,7 +18,7 @@ When a plugin is removed from the WordPress.org Plugin Directory no warning is p
 - the author asks for it to be closed
 - the author asks for it to be closed because they are re-releasing under a different name
 - it is being investigated after non-specific complaints
-- there is a security vulnerability
+- **there is a security vulnerability**
 
 If the plugin contains a security vulnerability the website could be vulnerable to being exploited until the plugin is deleted from the installation or a security update is released and applied. This plugin adds a page to WordPress to check if any plugins installed in WordPress are on a list of plugins that are no longer in the WordPress.org Plugin Directory so that WordPress administrators are alerted to the issue.
 
