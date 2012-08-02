@@ -12,7 +12,6 @@ featured-content,http://secunia.com/advisories/43064/
 feedlist,http://secunia.com/advisories/42197/
 flipbook,http://secunia.com/advisories/49687/
 fmoblog,http://secunia.com/advisories/34341/
-font-uploader,http://secunia.com/advisories/49327/
 front-file-manager,http://secunia.com/advisories/49428/
 grapefile,http://secunia.com/advisories/45719/
 html5avmanager,http://secunia.com/advisories/49390/
@@ -30,7 +29,6 @@ nextgen-smooth-gallery,http://secunia.com/advisories/40858/
 odihost-newsletter-plugin,http://secunia.com/advisories/45643/
 permalinks-migration-plugin-for-wordpress,http://secunia.com/advisories/28593/
 photoracer,http://secunia.com/advisories/35450/
-php_speedy_wp,http://secunia.com/advisories/43652/
 phpfreechat,http://secunia.com/advisories/49826/
 pica-photo-gallery,http://secunia.com/advisories/49467/
 plugin-newsletter,http://secunia.com/advisories/49464/
