@@ -10,10 +10,10 @@ easy-contact-forms-exporter,http://secunia.com/advisories/49450/
 events-manager-extended,http://secunia.com/advisories/41294/
 featured-content,http://secunia.com/advisories/43064/
 feedlist,http://secunia.com/advisories/42197/
-flipbook,http://secunia.com/advisories/49687/
 fmoblog,http://secunia.com/advisories/34341/
 front-file-manager,http://secunia.com/advisories/49428/
 grapefile,http://secunia.com/advisories/45719/
+hd-webplayer,http://secunia.com/advisories/50466/
 html5avmanager,http://secunia.com/advisories/49390/
 hungred-post-thumbnail,http://secunia.com/advisories/49447/
 invit0r,http://secunia.com/advisories/49519/
@@ -25,6 +25,7 @@ lim4wp,http://secunia.com/advisories/49609/
 lisl-last-image-slider,http://secunia.com/advisories/46108/
 meenews,http://secunia.com/advisories/46969/
 mm-forms-community,http://secunia.com/advisories/49411/
+mz-jajak,http://secunia.com/advisories/50217/
 nextgen-smooth-gallery,http://secunia.com/advisories/40858/
 odihost-newsletter-plugin,http://secunia.com/advisories/45643/
 permalinks-migration-plugin-for-wordpress,http://secunia.com/advisories/28593/
@@ -33,7 +34,6 @@ phpfreechat,http://secunia.com/advisories/49826/
 pica-photo-gallery,http://secunia.com/advisories/49467/
 plugin-newsletter,http://secunia.com/advisories/49464/
 quick-post-widget,http://secunia.com/advisories/49798/
-rbxgallery,http://secunia.com/advisories/49463/
 register-plus-redux,http://secunia.com/advisories/45503/
 register-plus,http://secunia.com/advisories/42360/
 rekt-slideshow,http://secunia.com/advisories/46098/
@@ -55,11 +55,13 @@ wordpress-whois-search,http://secunia.com/advisories/47428/
 wp-ajax-recent-posts,http://secunia.com/advisories/44348/
 wp-css,http://secunia.com/advisories/45734/
 wp-custom-pages,http://secunia.com/advisories/43963/
+wp-effective-lead-management,http://secunia.com/advisories/50166/
 wp-featured-post-with-thumbnail,http://secunia.com/advisories/43072/
 wp-menu-creator,http://secunia.com/advisories/45674/
 wp-photo-album,http://secunia.com/advisories/44351/
 wp-predict,http://secunia.com/advisories/49843/
 wp-safe-search,http://secunia.com/advisories/42544/
+wp-simplemail,http://secunia.com/advisories/50208/
 wp-starsratebox,http://secunia.com/advisories/44257/
 wpeasystats,http://secunia.com/advisories/46069/
 wpforum,http://secunia.com/advisories/43552/
