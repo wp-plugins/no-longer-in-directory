@@ -52,7 +52,7 @@ Please let us know if you are interested in us adding additional localizations.
 
 = 1.0.12 =
 
-* Refreshed removed plugin list with data from December 2, 2012
+* Refreshed removed plugin list with data from December 3, 2012
 
 = 1.0.11 =
 
