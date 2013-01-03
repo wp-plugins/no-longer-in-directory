@@ -3,14 +3,14 @@
 Plugin Name: No Longer in Directory
 Plugin URI: http://www.whitefirdesign.com/no-longer-in-directory
 Description: Checks for installed plugins that are no longer in the WordPress.org Plugin Directory.
-Version: 1.0.12
+Version: 1.0.13
 Author: White Fir Design
 Author URI: http://www.whitefirdesign.com/
 License: GPLv2
 Text Domain: no-longer-in-directory
 Domain Path: /languages
 
-Copyright 2012 White Fir Design
+Copyright 2012-2013 White Fir Design
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -25,6 +25,11 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
+
+//Block direct access to the file
+if ( !function_exists( 'add_action' ) ) { 
+	exit; 
+} 
 
 function no_longer_in_directory_init() {
 	load_plugin_textdomain( 'no-longer-in-directory', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
@@ -43,7 +48,7 @@ function no_longer_in_directory_page() {
 	$plugin_list_paths = array_keys($plugin_list);
 	$plugin_path;
 	$no_longer_in_directory = array();
-	$disappeared_plugins = file(dirname( __FILE__ ) . '/plugin-list.php', FILE_IGNORE_NEW_LINES);
+	$disappeared_plugins = file(dirname( __FILE__ ) . '/plugin-list.txt', FILE_IGNORE_NEW_LINES);
 	
 	//Clean array elements of extraneous characters
 	$disappeared_plugins = array_map( 'trim', $disappeared_plugins );
@@ -66,7 +71,7 @@ function no_longer_in_directory_page() {
 	if ( !empty($no_longer_in_directory) ) {
 		
 		//Load Secunia advisories
-		$secunia_file = fopen(dirname( __FILE__ ) . '/secunia-advisories.php', "r");
+		$secunia_file = fopen(dirname( __FILE__ ) . '/secunia-advisories.txt', "r");
 		$secunia_advisories = array();
 		while (!feof($secunia_file) ) { 
 			$line = fgetcsv($secunia_file, 1024, ","); 

@@ -43,6 +43,7 @@ a-sink
 a-theme-editor-online
 a-while-ago
 a-youtube-plugin
+ab-tasty
 ab-test-for-wordpress
 abandon-post
 abbreviations-plugin
@@ -70,6 +71,7 @@ accordion-menu-fx
 accordion-menu-red-rokk-widget-collection
 achievements-bp
 achievements-tweaks-gd-star-rating
+acs-shortcuts
 acta-intro
 acta-wordpress-plugin
 action-affiliate
@@ -134,7 +136,6 @@ add-rellighbox
 add-rows-125
 add-rss-cloud-element
 add-shortcode-facebook-like-tweet-and-google-to-wordpress
-add-slider
 add-states
 add-tags-to-posts
 add-this
@@ -160,6 +161,7 @@ addstumble
 addthis-social-bookmarking-widget
 addthis-toolbox
 addthis-trending
+addthis-trending-content
 addthiscom-analytics-data-share
 addthiscom-analytics-data-share-v2
 adeels-zodiac-calculator
@@ -168,6 +170,7 @@ adgear-ad-manager
 adhesive
 adhesive-ii
 adi-adsense
+adinjection
 adjacent-post-links
 adkit24
 adm-dashboard-contact
@@ -251,7 +254,6 @@ adshare
 adsotrans
 advance
 advance-audio-player
-advance-page-manager
 advance-pagebar
 advance-post-url
 advance-post-widget-plugin
@@ -260,13 +262,11 @@ advanced-admin-notes
 advanced-ajax-calendar-widget
 advanced-ajax-page-loader-1
 advanced-cat-posts
-advanced-custom-fields-limiter
 advanced-custom-fields-year-field-add-on
 advanced-download-manager
 advanced-events-registration
 advanced-events-registration-with-authorizenet
 advanced-events-registration-with-paypal
-advanced-lazy-load
 advanced-media-gallery
 advanced-menu-widget-with-links
 advanced-options
@@ -430,11 +430,13 @@ amazon-store
 amazon-widget-for-wordpress
 amazon-wishlist
 amazoncom
+ambercart-wp
 amember-pro-v4-integration
 american-censorship
 amit-malki
 amr-impatient
 analog-clock-fx
+analytic
 analytics
 analytics-google
 analytics-my-site
@@ -472,6 +474,7 @@ antitroll
 anupraj-tell-friends
 any-category
 anything-widgets-vc
+anywhere
 anywhere-for-wordpress
 anywhere-social
 aov-link-directory
@@ -505,6 +508,7 @@ arconix-events
 arconix-testimonials
 ardent-twitter-bot
 are-gogle-incominglinks
+are-you-a-human-cf7-extension
 are-you-prepared
 argo-audio-player
 argo-links
@@ -513,6 +517,7 @@ argo-slideshow
 arkayne
 arkayne-content-linking
 arkli
+arsenal
 art-appreciation
 art-category-chart
 art-extended-excerpt
@@ -543,6 +548,7 @@ asocial-bookmarks
 aspanel2
 assemblage
 asset-helper
+asset-manager
 associated-posts
 associations
 asteroids-widget-by-electric-tree-house
@@ -588,7 +594,6 @@ author-plug-in
 author-plugin
 author-tag-cloud
 author-widget
-authors
 authors-by-category
 authors-categories
 authors-signature
@@ -712,6 +717,7 @@ backup-content-as-txt
 backupify
 bad-hatter-maintenance-mode
 badge-feed-link-widget
+baidu-share
 bakshi-slider
 bakshi3imageslide
 bakshi3imageslider
@@ -805,6 +811,7 @@ best-bets
 best-blogroll
 best-custom-link-widget
 best-facebook-like-box-widget
+best-of-web
 best-related-posts
 best-share-assistant
 best-social-share
@@ -860,7 +867,6 @@ big-big-category-constants
 big-brother
 big-cartel-integration
 biggerpress
-bigsendgrid
 billpress
 bills-artistdata-widget
 bilobaflickr-wordpress-widget
@@ -873,6 +879,7 @@ bitly-shortener
 bitly-widget
 bitnami-wordpress-stack
 bixt
+biz-calendar
 bizsugar-vote-button-1
 bj-lazy-load-1
 blablabla
@@ -885,7 +892,6 @@ blackout-your-blog
 blat-email
 blaving-online
 blaze
-blaze-slide-show-for-wordpress
 blicki
 blindall-slideshow
 blindx-slideshow
@@ -1027,11 +1033,14 @@ bp-networks
 bp-ninja-1
 bp-polls
 bp-privacidad-perfil
+bp-profile-privacy
 bp-remove-profile-autolinks
 bp-reply-by-email
 bp-threaded-forum-posts
 bp-trailingslashit-seo
 bp-translate
+bp-trunk-junc
+bp-tweet-button
 bp-user-language
 bp-user-timezone
 bp-with-wpml
@@ -1061,6 +1070,7 @@ brians-threaded-comments
 brick-system
 brickampmobile-mobile-detection-code
 brickmobile-mobile-redirect-installer
+bridge-shipworks-shopp
 brightcove
 broadcast
 broken-link-checker-pro
@@ -1100,6 +1110,7 @@ buddypress-curriculum-vitae
 buddypress-dataminer
 buddypress-domain-mapping
 buddypress-editable-group-slugs
+buddypress-extended-settings
 buddypress-forums-posts-since-last-visit
 buddypress-friendpress
 buddypress-group-documents
@@ -1108,6 +1119,7 @@ buddypress-introduce-2
 buddypress-jquery-activity-stream
 buddypress-member-groups-widget
 buddypress-member-live-search
+buddypress-mobile
 buddypress-my-friends-widgets
 buddypress-neofollow
 buddypress-notification-manager
@@ -1117,19 +1129,23 @@ buddypress-password-strength-indicator
 buddypress-polls
 buddypress-private
 buddypress-profile-data-admin-editor
+buddypress-profile-menu
+buddypress-profile-privacy
 buddypress-profile-views
 buddypress-registration-honeypot
 buddypress-scholarpress-courseware-espanol-50
+buddypress-share-it
 buddypress-sleek-profile-widget
+buddypress-stalker
 buddypress-supersliderbar-a
 buddypress-support-forum
 buddypress-track-social-activity
 buddypress-user-types
+buddypress-verified
 buddypress-wire
 buddypressfacebook-connect-logout
 buddyshop
 buddysliders
-buddystream
 bug-reporting
 bughotel-reservation-system
 bugmuncher
@@ -1174,7 +1190,6 @@ bw-recent-posts-widget
 bw4ie
 bwb-rewriter
 bws-portfolio
-bxgist4fun
 bye-revisions
 byrd-super-simple-forum
 bysms
@@ -1185,7 +1200,6 @@ cadastro-de-militantes
 cadmium-blue
 caesarmail
 calameo
-calendar
 calendar-fx
 calendar-widget
 calendarcloud
@@ -1194,6 +1208,7 @@ calii-slideshow
 call-me
 callme-twilio-client-widget
 calorie-counter
+camayak
 campaign-monitor
 campaign-monitor-plugin
 campaign-monitor-sync
@@ -1203,6 +1218,7 @@ canada-helps-for-wordpress
 candy-cal
 canli-yayin-eklentisi
 canoncial-url
+canonical-4-seo
 canonical-meta-tag
 canonical-urls
 canvas
@@ -1273,6 +1289,10 @@ cb-home-slider
 cbc
 cbhopad-controlincphp
 cbhopadphp
+cbnet-twitter-faves-display
+cbnet-twitter-list-display
+cbnet-twitter-profile-display
+cbnet-twitter-search-display
 cbtagclouds
 cc-downloads
 ccavenue-payment-gateway-for-woocommerce
@@ -1339,6 +1359,8 @@ chitika-eminimalls-plugin-for-word-press
 chitika-linx-for-wordpress
 chmod-calculator
 chomp
+chosen-for-simplified-taxonomies
+chris2x-tagads
 christmas-countdown
 chrome-frame-for-wordpress
 chuck-norris-facts
@@ -1356,6 +1378,7 @@ clamour
 classic-posts
 classic-smilies
 classifieds-plugin
+classipress-sms-payment-gateway
 clean-archives
 clean-dashboard
 clean-links
@@ -1371,6 +1394,7 @@ clearbox-js-2
 clever-sms-text-message-plugin
 cleverreach-plugin
 click-counter
+click-to-copy-grab-box
 clickable-taxonomies
 clickbank-ad-feed
 clickbank-ads
@@ -1405,6 +1429,7 @@ cloudwatch
 cm-quiz
 cme-see-me
 cminus
+cms
 cms-html-build-kit
 cmscdn
 cmswpress
@@ -1457,6 +1482,7 @@ comicpress-core
 comment-abuse
 comment-aggregator
 comment-animator
+comment-blocker-before-save-database
 comment-copier
 comment-deleter
 comment-email-responder
@@ -1552,7 +1578,6 @@ contact-form-73
 contact-form-by-userpulse
 contact-form-fx
 contact-form-ii
-contact-form-newsletter
 contact-form-red-rokk-widget-collection
 contact-form-widget
 contact-form-wordpress
@@ -1579,7 +1604,6 @@ content-dragon-wordpress-plugin
 content-dragons-free-content-plugin
 content-enricher-plugin
 content-gallery
-content-holders
 content-magnet
 content-management-system
 content-marketing-cannon
@@ -1670,6 +1694,7 @@ cpdude43s-poll
 cpod-mp3
 cpt-onomies-using-custom-post-types-as-taxonomies
 cr-extended-widget-manager
+crashfeed
 crawlink
 crawlpage-10
 crazyegg
@@ -2024,7 +2049,6 @@ dock-gallery
 dock-gallery-fx
 dock-menu-fx
 doctrine-dbms-integration
-document-feedback
 documents
 dofollow
 dofollow-trackbacks
@@ -2106,7 +2130,6 @@ duplicate-post-locator
 duplicate-sidebar-widgets
 dw-social
 dx-contact
-dx-contribute
 dxhamfest-ham-radio-cb-radio-listings-search
 dynamic-adsense-targeting
 dynamic-blog-protector
@@ -2118,6 +2141,7 @@ dynamic-content-gallery-lite
 dynamic-font-replacement-dfr4wp-en
 dynamic-image-sizes
 dynamic-internal-links
+dynamic-link
 dynamic-related-posts
 dynamic-seo-title
 dynamic-shortcodes
@@ -2263,6 +2287,7 @@ ebay-auction-flash-widget-embed-code
 ebay-autoposter
 ebay-brackets
 ebay-bump-widget
+ebay-store
 ebayflashstore
 ebayseller
 ebaystore-for-stores
@@ -2322,6 +2347,7 @@ email-notify
 email-on-pending-post
 email-pending-posts
 email-protection
+email-to-commenters
 email-to-image
 email2friend
 emailme-plugin
@@ -2375,7 +2401,6 @@ enquiryspiral
 entirelyopensourcecom-story-badge
 entrecard-me
 envato-wordpress-updater
-envialosimple-email-marketing-y-newsletters-gratis
 enviar-por-email
 envision-translate
 eo-tracker-form-helper
@@ -2523,6 +2548,7 @@ facebook-connect
 facebook-connect-plugin
 facebook-connector
 facebook-debugger
+facebook-expert-widget
 facebook-fan-and-like-box-widget
 facebook-fan-and-like-widget
 facebook-fan-box-widget
@@ -2584,6 +2610,7 @@ facebook-styled-chat
 facebook-subscribe
 facebook-subscribe-button
 facebook-tab
+facebook-this
 facebook-traffic-booster
 facebook-twitter-google-plus-one-rising-social-share-buttons-for-wordpress
 facebook-twittergoogle-buttons
@@ -2658,7 +2685,6 @@ fb-merge
 fb-meta-tags
 fb-open-graph-actions-free
 fb-share-button
-fb-social-reader
 fb-standardstats
 fbconnect
 fbthumbnail
@@ -2760,6 +2786,7 @@ file-press
 file-uplader
 file-upload-support-for-contributors
 file-uploader-10-beta
+fileshare
 filled-in-which-works
 filler
 filosofo-advanced-comments
@@ -2800,6 +2827,7 @@ fixed-admin-menu
 fixed-search-button
 fixed-size-of-uploaded-images-no-thumbnails
 fixed-social-buttons
+fixit
 fjs-feedburner-integrator-for-wp
 flag-comments-10
 flagallery
@@ -2851,6 +2879,7 @@ flipkart-for-wordpress
 fliptop
 float-popup-left-right-advertising
 floating-admin-sidebar
+floating-social-sharing-buttons
 floating-toolbar
 flog-maker
 floobs-clips
@@ -2934,6 +2963,7 @@ foursquare-list
 foursquare-reviews
 foursquare-widgets
 fourstream
+foxfire
 foxycomplete
 fragment-cache
 framekiller
@@ -3016,12 +3046,14 @@ fuzzy-datetime-in-french
 fuzzy-widgets
 fv-forms
 fv-simpler-seo-pack
+fv-top-level-categories
 fv-universal-thumbnailer
 fv-video-player
 fwp-calais-autotagger
 fwp-testimonial
 fx-inline-posting
 fxtender-free-for-jobroller
+g-button
 g-translate
 g6
 galeria-aspace
@@ -3059,7 +3091,6 @@ gd-load-monitor
 gd-twitter-central
 gecka-library
 gecka-sub-menu
-generic-wp-plugin
 genesis-accordion
 genesis-blog-extended
 genesis-connect-for-woocommerce
@@ -3081,7 +3112,6 @@ geo-sitemap
 geoaddress
 geoaddress-10
 geoip
-geolocaladmin
 geolocation-redirect
 georgian-symbols-sanitizer
 georgian-symbols-sanitizer2
@@ -3186,7 +3216,6 @@ google-analytic
 google-analyticator-farsi
 google-analytics
 google-analytics-3-codes-for-wordpress
-google-analytics-client
 google-analytics-kodu
 google-analytics-most-read-posts
 google-analytics-pageviews
@@ -3245,6 +3274,7 @@ google-plus-1-widget
 google-plus-1-widgetv1
 google-plus-badge-paulunf
 google-plus-bar
+google-plus-button
 google-plus-button-widget
 google-plus-hide-link
 google-plus-link-box
@@ -3317,6 +3347,7 @@ gravatarmemory
 gravatars
 gravatars2
 gravite
+gravity-form-placeholder-input-field
 gravity-forms-infogeniuz
 gravity-forms-pdf-entries
 gravity-forms-update-post-1
@@ -3331,6 +3362,7 @@ gregs-ultra-performance-seo
 greyboxwp
 grid-engine
 grid-gallery
+gridlayout-shock
 gridly
 grimp-fnz
 grimp-seb
@@ -3341,6 +3373,7 @@ growmap-anti-spambox-plugin
 gs-alternat-images
 gs-graphics
 gtpayment-donation-button
+gtrans
 gtranslate
 guar-sitemap
 guardian-open-platform-plugin-for-wordpress
@@ -3443,7 +3476,6 @@ hide-spa-count
 hide-tags
 hide-wordpress-update-note
 hide-wp-admin
-hide-wpengine-tab
 hidepost238
 highlight
 highlight-search
@@ -3763,6 +3795,7 @@ insertthis-intelligent-content-inserts
 insign
 insite-picasaweb
 inspirational-quote-of-the-day
+inspirational-quotes
 inspirational-steve-jobs-quotes
 inspire
 instaemail
@@ -3826,6 +3859,7 @@ iphotopress
 ipkarma
 iplayer-quicktag
 ipv6-widget
+ipvenger
 iq-layer
 irc-hispano
 iredlof-ajax-login
@@ -3844,6 +3878,7 @@ islamic-doaa
 isly-pinterest
 ismaeel-press
 isotope-visual-post-layouts
+isotopes
 isp-inspector
 ispring4wordpress
 ispvoice
@@ -3951,7 +3986,6 @@ jquery-lightbox-plus
 jquery-lightbox2-gaunau
 jquery-menus
 jquery-page-fadein-effect
-jquery-pin-it-button-for-images
 jquery-popup-images
 jquery-popup-img
 jquery-popup-plugin
@@ -3961,6 +3995,7 @@ jquery-reply-2-comment
 jquery-slider-for-featured-content
 jquery-syntax-wordpress
 jquery-ui-datepicker
+jqueryslider-shock
 jqzoom-plugin-for-wordpress
 jr-ads
 jr-alexa
@@ -4019,6 +4054,7 @@ jscsseditor
 jsecure-admin
 jseries-notifier
 jsimage
+json-dot-php
 jswitch-image-gallery
 jtag-cal
 jtags
@@ -4114,7 +4150,6 @@ koumpounophobia
 kpicasa-gallery-php4mod
 kreditkarten-nachrichten
 kreditkarten-news
-krux-apps
 ksbase
 ksinternetcom-wordpress-plugin
 ksinternetcom-wordpress-plugins
@@ -4131,6 +4166,7 @@ l10n-helper
 l2
 l4ain-link-shorter
 la-liga-rankings-lite
+labtools
 lampen-news-german
 lane66-affiliate-tools
 langara-require-comment-moderation
@@ -4338,6 +4374,7 @@ live-political-popularity-comparison-chart-genarator
 live-political-popularity-trend-sidebar-widget
 live-score-v2
 live-search
+live-site-developer
 live-space-mover
 live-space-sync-2
 live-twit
@@ -4517,7 +4554,6 @@ mashable-inspired-sidebar-social-widget
 mashlogic
 masonry
 mass-category-maker
-mass-disable-users
 mass-edit-posts
 mass-page-maker
 massmoney-makers-commission-bot
@@ -4586,7 +4622,9 @@ meituan-widget
 member-feedback
 membermouse
 members-content
+membership-captcha
 membership-manager
+membership-plugin-captcha
 membership-site-memberwing
 memberwing-membership-plugin
 memolane-embed
@@ -4606,6 +4644,7 @@ mercado-livre
 merhaba-babos
 merlins-wordpress-mover
 merqdethumb-erstelle-thumbnails-im-browser
+message-bar
 message2visitor
 meta-author-email-and-copyright
 meta-for-blogs
@@ -4725,7 +4764,6 @@ mm-snippets
 mmc-gallery
 mmedia-embed-plugin-for-wordpress
 mmosocialnetwork-stories-widget
-mmww
 mmynotes
 mo0d
 mobify
@@ -4797,6 +4835,7 @@ moodle-login
 moolet-ploplet
 moonphases-for-wordpress
 moonvipercom-notices
+mooontes-comments-media-upload
 mooslidebox
 more-cowbell
 more-link-formatting
@@ -4816,9 +4855,7 @@ morfeo-single-video-gallery
 morfeo-triple-video-gallery
 morfeo-video-gallery
 mortgage-calculator-sidebar-widget
-mortgage-loan-calculator
 mortgage-rate-widget
-mortgage-rates
 mortimers-german-timesince
 most-active-authors-list
 most-commented-posts-2
@@ -4843,7 +4880,6 @@ mp3
 mp3-flash-player-11
 mp3-player-fx
 mp3-upload
-mpress-fix-url-references
 mrpopup
 mrspeed
 ms-meliwords
@@ -4950,6 +4986,7 @@ my-popularity
 my-prayer-time
 my-publisher
 my-quote
+my-recent-tweets
 my-simple-tables
 my-simple-tube
 my-simpletubes
@@ -4972,6 +5009,7 @@ mybloglog-widget
 myblogloglog
 mycat
 mycloud
+mycloudplayers-playlist
 mycomic-browser
 mycomments
 mycommerce
@@ -5106,6 +5144,7 @@ newsit
 newsletter-pro
 newsletter-professional
 newsletter-subscription-double-optin
+newsletter-user-base
 newslinks
 newspaper-style-posts
 newstastic-recent-post-slider
@@ -5239,6 +5278,7 @@ obm-hit-counter-bangla
 ochres-community-wireless-network-manager
 octazen-contacts-importer-friend-inviter
 od-eshop-plugin
+odesk-job-feed
 odihost-newsletter-plugin
 oempro
 off
@@ -5253,6 +5293,7 @@ offsite-template
 oggchat-live-chat
 oik-nivo-slider-1
 oknotizie-direclty-vote
+olark-for-wordpress
 old-articles-alerts
 old-content
 old-permalinks-redirect
@@ -5271,6 +5312,7 @@ one-year-ago
 oneclick-plugin-for-wordpress
 oneclickjmiguel
 onefile
+oneid-login
 oneliners
 onesite-sso
 online-backup-for-wordpress
@@ -5483,6 +5525,7 @@ persianbookmark
 personal-loan-affiliate
 petfinder-adoptable-animals-wordpress-plugin
 pg-flash-gallery
+pgi-inventory-plugin
 pgn-viewer-plugin
 pgnviewer
 pgpcontactwidget
@@ -5583,6 +5626,7 @@ pinkvisual-api
 pinp
 pinterest-analytics
 pinterest-board-widget
+pinterest-tabs
 pinyin-for-slugs
 pipotron
 pirate-king
@@ -5598,6 +5642,7 @@ pixoona
 pixoona-new
 pixoona-plugin
 pixopoint-add-spans-to-titles
+pixton-comics
 pjw-quicktags
 placesurf-google-earth-link-adder
 plagiary-search
@@ -5743,6 +5788,7 @@ post-geoposition
 post-image
 post-imagem-anexa
 post-images
+post-link-disabler
 post-message
 post-metaboxes
 post-n-page-views
@@ -5782,7 +5828,6 @@ post-updated-ng
 post-video-easy-hmtl5-video-embed
 post-videos-and-photo-galleries
 post-viewer-widget
-post-views
 post-voting
 post-with-feelings-10
 post-word-counter-for-utf-8-chinese
@@ -5810,7 +5855,6 @@ posts-by-category-widget
 posts-categories-in-sidebar-v1
 posts-duplicated-delete
 posts-in-category
-posts-in-map
 posts-list-by-category
 posts-of-today
 posts-populares
@@ -5824,7 +5868,6 @@ power-editor
 power-slider
 power-tickets
 power-tools
-power-zoomer
 powered-by-you
 powerful-blog-copyright
 powerful-blog-post-promoter
@@ -5905,7 +5948,6 @@ profanity-filter
 profanity-remover
 professional-shortcodes
 profile-pic-fix
-profile-widget
 profiles
 profilfelder
 progress-meter-widget
@@ -6031,6 +6073,7 @@ quizr-widget
 quote-curator
 quote-master-nederlands
 quote-point
+quotefm-latest
 quoter
 quotes
 quotes-wordpress-plugin
@@ -6168,8 +6211,10 @@ recipe-share
 recipost
 recipress-extended
 recommend-engine
+recommended-author-posts
 recommended-books
 recommended-posts
+recruit-buddy-widget
 reddit-this
 reddit-user-karma
 redes-sociais
@@ -6249,6 +6294,7 @@ reperror
 repetitive-image-inserter
 replace-comments-number
 replace-content
+replay
 reply
 reply-and-email
 report-comment
@@ -6278,6 +6324,7 @@ resume
 resume-manager
 resume-press
 retick
+return-to-top
 retweet-para-post
 retweet-post
 reuters-stock-widgets
@@ -6291,6 +6338,7 @@ reviewer
 revision-summary
 revisit
 revisited-post-thumb
+revrise-wp
 revver
 reweet-button
 rewrite-analyzer
@@ -6331,6 +6379,7 @@ robs-firestats-popular-plugin
 role-manager
 role-scoping-for-nextgen-gallery
 role-specific-access
+rollover-themes-list
 romania-bookmark
 romanian-currencies-widget
 romanian-legacy-characters
@@ -6586,7 +6635,6 @@ seo-report-card
 seo-share-address
 seo-siloing
 seo-social-bookmarking
-seo-tag-cloud
 seo-tip-top
 seo-tools
 seo-translate
@@ -6660,12 +6708,10 @@ shipworks-shopp
 shire-reckoning
 shocking-ie6-warning
 shop
-shopp-clockwork
 shopp-courtesy
 shopp-cubecart-importer
 shopp-customer-accounts
 shopp-customer-signup
-shopp-icontact
 shopp-multilingual
 shopp-product-search
 shopp-requirements-check
@@ -6700,7 +6746,6 @@ shortcodes-editor-selector
 shortcodes-in-all-in-one-seo-plugin
 shortcodes-on-the-fly
 shortcodex
-shortcodify
 shortcut-keys-quick-reference
 shortcuts
 shorten-link-text
@@ -6719,6 +6764,7 @@ shoutmix
 show-active-category-while-browsing-a-post
 show-author
 show-cats
+show-df-h
 show-empty-categories
 show-featured-posts
 show-front-page
@@ -6786,7 +6832,6 @@ simple-clean-author-bio
 simple-contact-us
 simple-corner-clock
 simple-countdown-timer
-simple-cron
 simple-cu3er
 simple-currency-exchange
 simple-custom-post-per-page
@@ -6795,13 +6840,13 @@ simple-cycle
 simple-download-button-shortcode
 simple-downloadmanager
 simple-downloads
-simple-e-commerce-shopping-cart
 simple-events-with-eventbrite
 simple-excerpts
 simple-facebook-comments-for-wordpress
 simple-facebook-connect2
 simple-facebook-fan-and-like-widget
 simple-favicon
+simple-feed-list
 simple-feedback-form
 simple-flash-video2
 simple-flv
@@ -6835,6 +6880,7 @@ simple-meta-editor
 simple-modal
 simple-mortgage-loan-calculator-3
 simple-mp3-post
+simple-music
 simple-myimage-slideshow
 simple-news-slider
 simple-newsletter
@@ -6846,6 +6892,7 @@ simple-page-navigation-with-page-numbers
 simple-page-redirect
 simple-paypal-donate
 simple-photo-queue
+simple-phpexcel-export
 simple-pie-chart
 simple-polls
 simple-portfolio-wordpress-30
@@ -6866,7 +6913,6 @@ simple-review
 simple-rewrite-rules
 simple-robotstxt-htaccess-meta
 simple-search
-simple-seo-categories-posts
 simple-share-optimizer
 simple-single-gallery
 simple-slide-show
@@ -6963,7 +7009,6 @@ slick-slideshow-jquery
 slide-contact-form-and-a-lead-manager
 slide-out-tab
 slide-radio-torment
-slide-show-pro
 slide2comment-anti-spam-in-a-sexy-way
 slideboom-wordpress-plugin
 slideboomlatest
@@ -6980,6 +7025,7 @@ slideshow-a-folder
 slideshow-banner
 slideshow-gallery-2
 slideshowbuilder
+slideshowfx
 slidezoom
 sliding-image-gallery-xml-v2
 sliding-image-gallery-xml-v6
@@ -7012,7 +7058,6 @@ smart-related-posts-thumbnails
 smart-share-floating-buttons
 smart-sharing
 smart-show
-smart-slide-show
 smartaddon-share-button-bars
 smartphone-news
 smartphone-switcher
@@ -7084,6 +7129,7 @@ social-box
 social-dropdown-button
 social-embed-for-wordpress
 social-feeds
+social-hands
 social-history-for-wordpress
 social-icon-replacements
 social-integration
@@ -7121,6 +7167,7 @@ social-stalker
 social-tagger
 socialbar
 socialbuttons
+socialcast
 socialfit
 socialgrid
 socialist
@@ -7186,6 +7233,7 @@ spelling-checker
 sphere-related-content
 sphereit
 sphinn-it-wordpress-plugin
+spider-calendar
 spider-fc
 spider-wp
 spiderbar
@@ -7215,6 +7263,7 @@ sqoot-daily-deal-widget
 squace-mobile-publishing-plugin-for-wordpress
 squawkthis
 srg-clean-archives
+ss-zip-unloader
 ssd-optimize-wordpress
 ssl-datacenter-guard
 ssl-smilies
@@ -7300,6 +7349,7 @@ stripewp
 structured-blogging
 strx-browser-body-classes
 strx-node-chat
+stubwirecom-event-manager
 stumbled
 stumbleupon-badge
 stumbleupon-it
@@ -7329,6 +7379,8 @@ subscribe-to-page
 subscribe-to-sms
 subscribe-widget
 subscribe2-2415-french-translation
+subscribe2-itzip
+subscribe2-widget-pro
 subscribebox
 subscription-widget
 subscriptiondna
@@ -7368,10 +7420,10 @@ superloop
 superloops
 supermailer
 superpress
-superslider-slimbox
 supersorter
 suppertwitter
 support
+support-chart-widget
 support-flow
 support-plugin-correct-one
 support-remix
@@ -7550,7 +7602,6 @@ thatcamp-registrations
 the-adsense-privacy-policy
 the-amazing-contemporizer
 the-auto-image-resizer
-the-casengo-chat-widget
 the-category-reloaded
 the-chillbooking-system
 the-codetree-core-authenticator
@@ -7584,6 +7635,7 @@ theme-in-bn-bd
 theme-info
 theme-logo
 theme-my-post-pages
+theme-my-profile
 theme-switch
 theme-switcherphp
 theme-tweaker
@@ -7658,6 +7710,7 @@ titletopng
 titlizer
 tiutiu-facebook-friends-widget
 tj-require-category
+tlc-transients
 tm-searchrelated
 tmf-image
 tmm-changeit
@@ -7731,6 +7784,7 @@ translate-tab-bar
 translate-widget
 translate-with-google-and-bing
 translate-wp
+translate2011
 translatemyblog
 translatorplugin
 transliterate-permalinks-russian
@@ -7779,7 +7833,6 @@ tv-online-widget-all-romanian-stations
 tv-online-widget-plugin-romanian-stations
 tv-online-widget-romanian-stations
 tvonline-plugin-widget
-tw-blacklight
 tw0ooter
 tweet-button
 tweet-button-twitter
@@ -7845,6 +7898,7 @@ twitter-brand-sponsors
 twitter-brand-sponsors-sidebar-widget-by-mashable-and-danzarrella
 twitter-budgie
 twitter-bwjams-plugin
+twitter-comment-field
 twitter-comments-2
 twitter-comments-3
 twitter-enabled-comments
@@ -7863,7 +7917,6 @@ twitter-friend-feed
 twitter-friends-plugin
 twitter-goodies
 twitter-greeting
-twitter-home-time-line
 twitter-id
 twitter-integration
 twitter-json-widget
@@ -7998,6 +8051,7 @@ us-zoom-tweet-instant
 use-wordpress-explicitly
 useful-stats
 user-ban
+user-directory-shortcode
 user-info
 user-profile-with-avatar-in-wpmu
 user-ranks
@@ -8044,7 +8098,6 @@ very-basic-contact-form
 very-simple-post-images
 very-simple-vimeo-shortcode
 vg-wort-minify
-vgw-vg-wort-zahlpixel-plugin
 vhm-bitly
 vidas-paralelas
 vidavee-video
@@ -8080,7 +8133,6 @@ videopop
 videopress
 videotag
 vidipress
-vidtok-video-chat-using-tokboxs-api
 vietnamese-lunar-calendar
 vietnamese-rewriter
 viettyping-integrate
@@ -8112,10 +8164,10 @@ virtual-ayar-myanmar-unicode-keyboard
 virtual-cron
 virtual-keyboard-for-ayar-myanmar-unicode
 virtual-pagination
-virtual-signature
 visibility
 visibli
 visitas
+visiting-card-by-wisdmlabs
 visitor-details
 visitor-ip
 visitor-likedislike-comment-rating
@@ -8181,6 +8233,7 @@ vslider-40
 vulcun-add-links-to-words
 vulnero
 vuploads
+vzaar-official-plugin
 w3c-website-validator-automated
 w3images-gallery-for-wordpress
 w3metatags
@@ -8211,7 +8264,6 @@ weather-report
 weather-widget-fx
 weather-wp
 weathericon
-weaver-ii-theme-extras
 weaver-spoiler
 weaver-theme-extension-slider
 weaver-theme-pack-one
@@ -8230,7 +8282,12 @@ webm-voter
 webo-site-speedup
 webpicasa
 webradiowidget
+webreserv-embedded-booking-calendar
+webreserv-event-embedded-booking-calendar
+webreserv-event-sidebar-booking-calendar
+webreserveu-booking-widget
 webrings-widget
+webrtb-cms
 webshim
 website-faq
 website-monitoring-1
@@ -8238,10 +8295,12 @@ website-monitoring-2
 webslicer2
 websnap-of-author-latest-comment
 webstat-tracker
+webtomat-games-catalog-game-content
 webtrends-for-wordpress
 webturd-twitter-widget
 wedesign-debug-10
 week-in-links
+weekly-food-section-widget
 weekly-time-table-plugin
 wegame-video-plugin
 weibopress
@@ -8351,6 +8410,7 @@ wizard-of-oz
 wk-newsletter-en
 wkmood
 wlw-disabler
+wm-font-zer
 wmd-editor
 wmtb-subscribe
 wmu-geolocation
@@ -8369,13 +8429,13 @@ woocommerce-beta-tester
 woocommerce-cardsave-redirect-payment-integration
 woocommerce-clickatell-sms-notifications-lite
 woocommerce-germany-tweaks
+woocommerce-mijireh
 woocommerce-multiple-files-download
+woocommerce-nuevo-sol-peru
 woocommerce-shipping-information
 woocommerce-shipping-label-woocommerce-rotulo-de-entrega
-woocommerce-video-product-tab
 woocommerce-views
 woogle-translate
-woosidebars
 wop-issuu
 wopsta-wordpress-visitor-statistics
 word-censor
@@ -8738,6 +8798,7 @@ wp-betterdb
 wp-blacklist
 wp-block-you
 wp-blogfooter
+wp-blogfresh
 wp-blogsquare
 wp-blogtorrent
 wp-blurb
@@ -8833,6 +8894,7 @@ wp-cumulus-cn
 wp-currency-ticker
 wp-custom
 wp-custom-css
+wp-custom-e-mail-headers
 wp-custom-feed
 wp-custom-field-geocoder
 wp-custom-logo
@@ -8861,6 +8923,7 @@ wp-deliciousdigest
 wp-demoru-html
 wp-demotivators
 wp-deploy
+wp-devel
 wp-development-utilities-v13
 wp-dezinews
 wp-digg
@@ -8955,7 +9018,6 @@ wp-facebox-with-iframe-support
 wp-fancyzoom
 wp-fanesia
 wp-faq
-wp-faq-by-wpdonehere
 wp-faster
 wp-fatter
 wp-fb-plugins
@@ -9022,7 +9084,6 @@ wp-highslide-image-viewer
 wp-hijri-date
 wp-histats
 wp-holidays
-wp-homepage-slideshow
 wp-horus
 wp-hotboxes
 wp-htaccess
@@ -9035,7 +9096,6 @@ wp-iltooltip
 wp-image-slider
 wp-imeemsearch
 wp-immomanager
-wp-imovel
 wp-implebot
 wp-infinite-scroll
 wp-info
@@ -9196,6 +9256,7 @@ wp-phanfare2012
 wp-photo-album
 wp-photographer
 wp-photos
+wp-php-mobile-detect
 wp-php-registry
 wp-phpbb-bridge-ii
 wp-phpbb-thread-link-selector
@@ -9301,7 +9362,6 @@ wp-role-manager
 wp-role-manager-1
 wp-role-manager-2
 wp-room-booking
-wp-royal-gallery
 wp-rss-thumbnails
 wp-rss20-from-newsyandexru
 wp-rsspromote
@@ -9421,6 +9481,7 @@ wp-target-visitors
 wp-targetshooting
 wp-task-manager-reloaded
 wp-taxonomy-widget
+wp-teampress
 wp-tencent-microblog
 wp-testimonialsplus
 wp-text-message
@@ -9429,7 +9490,6 @@ wp-text-with-title-link
 wp-textarea
 wp-textarea-resizer
 wp-textmarquee
-wp-textmaster
 wp-the-slide
 wp-theme-switcher
 wp-threaded-comments
@@ -9438,6 +9498,7 @@ wp-thumbpost
 wp-tickets
 wp-time-slots-availability-calendar
 wp-times-new-roman-font
+wp-timthumb
 wp-tinymce-style-manager
 wp-tippx
 wp-title-customize
@@ -9496,6 +9557,7 @@ wp-web-tv
 wp-webshots
 wp-webslice
 wp-welcomemsg
+wp-whoosh
 wp-widget-slider
 wp-wikka
 wp-workflow
@@ -9545,6 +9607,7 @@ wpcalm-contact-us-mailing-list-manager
 wpcarrer
 wpcart
 wpcas-w-ad
+wpcguard
 wpclickbank
 wpcms-content-last-updated-footer
 wpcoder
@@ -9642,6 +9705,7 @@ wproxy-list
 wprpt-wordpress-related-post-with-thumb
 wprssdigest
 wps3slider
+wpsc-monetaweb
 wpsc-search-widget
 wpscadvancederrors
 wpshopgermany-paypaldirect
@@ -9664,7 +9728,6 @@ wpvestotwitter
 wpvideo
 wpwhale
 wpx-last-post-mod
-wpzing
 wretch-friends
 write-maths-see-maths
 writehive
@@ -9679,6 +9742,7 @@ wunderground-weather
 wuwidget-booking-online-widget-by-wubook
 wyrimapsnet
 wysiwyg-comment-preview
+wysiwyg-text-widget
 x-box-360-gamercard
 x-social-sharing
 x509-authentication
@@ -9734,6 +9798,7 @@ yahoo-web-analytics
 yahoo-xweather
 yahoopics
 yakadanda-recipress-extended
+yakadanda-team-resubmit
 yamizanet
 yammyamm
 yandex-share-block
@@ -9763,6 +9828,7 @@ yet-another-random-post-widget
 yg-anti-spam
 ygncos-button
 ygncos-shorten
+yigg
 yigg-related-posts
 yigger-v11
 yiggpress
@@ -9823,6 +9889,7 @@ z-vote
 zace
 zadnja-twitter-objava
 zamango-money-extractor
+zang
 zanox-search
 zaparena-widget
 zartwork-icon-menu
@@ -9851,6 +9918,7 @@ zideo-uploader
 zigfeature
 zine-press
 zingiri-wiki
+zingsphere-widget
 zipli-retweet
 zippyshare-embed-plugin
 zlinks
