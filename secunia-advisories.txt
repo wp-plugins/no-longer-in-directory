@@ -34,7 +34,6 @@ phpfreechat,http://secunia.com/advisories/49826/
 pica-photo-gallery,http://secunia.com/advisories/49467/
 plugin-newsletter,http://secunia.com/advisories/49464/
 quick-post-widget,http://secunia.com/advisories/49798/
-register-plus-redux,http://secunia.com/advisories/45503/
 register-plus,http://secunia.com/advisories/42360/
 rekt-slideshow,http://secunia.com/advisories/46098/
 rent-a-car,http://secunia.com/advisories/46100/
@@ -47,9 +46,9 @@ tagninja,http://secunia.com/advisories/43132/
 thinkun-remind,http://secunia.com/advisories/49461/
 ucan-post,http://secunia.com/advisories/47656/
 upm-polls,http://secunia.com/advisories/47182/
-videowhisper-video-presentation,http://secunia.com/advisories/49410/
 vk-gallery,http://secunia.com/advisories/46092/
 vodpod-video-gallery,http://secunia.com/advisories/42195
+wordpress-gallery,http://secunia.com/advisories/51347/
 wordpress-processing-embed,http://secunia.com/advisories/42545/
 wordpress-whois-search,http://secunia.com/advisories/47428/
 wp-ajax-recent-posts,http://secunia.com/advisories/44348/
