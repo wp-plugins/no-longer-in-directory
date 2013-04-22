@@ -1,0 +1,13 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Checks for installed plugins that are no longer in the WordPress.org Plugin Directory."
+msgstr "Comprobaciones de plugins instalados que ya no se encuentran en el Directorio de plugins de WordPress.org."
+
+msgid "Installed plugins that are no longer in the WordPress.org Plugin Directory:"
+msgstr "Plugins instalados que ya no se encuentran en el Directorio de plugins de WordPress.org:"
+
+msgid "No installed plugins are no longer in the WordPress.org Plugin Directory."
+msgstr "Los plugins no instalados ya no se encuentran en el Directorio de plugins de WordPress.org."
