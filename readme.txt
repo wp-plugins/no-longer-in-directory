@@ -3,7 +3,7 @@ Contributors: WhiteFirDesign
 Donate link: https://supporters.eff.org/donate
 Tags: security, plugins
 Requires at least: 3.3.1
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,6 +49,10 @@ Please let us know if you are interested in us adding additional localizations.
 1. Plugin Page
 
 == Changelog ==
+
+= 1.0.22 =
+
+* Refreshed removed plugin list with data from December 12, 2013
 
 = 1.0.21 =
 
