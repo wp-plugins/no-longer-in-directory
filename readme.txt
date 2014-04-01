@@ -50,6 +50,10 @@ Please let us know if you are interested in us adding additional localizations.
 
 == Changelog ==
 
+= 1.0.25 =
+
+* Refreshed removed plugin list with data from April 1, 2014
+
 = 1.0.24 =
 
 * Refreshed removed plugin list with data from March 3, 2014
