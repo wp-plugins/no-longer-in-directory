@@ -1,9 +1,8 @@
 ﻿=== No Longer in Directory ===
 Contributors: WhiteFirDesign
-Donate link: https://supporters.eff.org/donate
 Tags: security, plugins
 Requires at least: 3.3.1
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,6 +24,8 @@ When a plugin is removed from the WordPress.org Plugin Directory no warning is p
 If the plugin contains a security vulnerability the website could be vulnerable to being exploited until the plugin is deleted from the installation or a security update is released and applied.
 
 If you want WordPress to begin alerting when installed plugins have been removed from the directory please make sure to <a href="http://wordpress.org/extend/ideas/topic/alert-when-installed-plugins-have-been-removed-from-the-plugin-directory">vote for implementing that in WordPress</a>. In the mean time, this plugin adds a page to WordPress to check if any plugins installed in WordPress are on a list of plugins that are no longer in the WordPress.org Plugin Directory so that WordPress administrators are alerted to the issue.
+
+The plugin will also separately list any plugins that have not been updated in the WordPress.org Plugin Directory in over two years.
 
 For removed plugins that have a Secunia Advisory for a security vulnerability, a link to that advisory is included in the results of the check.
 
@@ -49,6 +50,11 @@ Please let us know if you are interested in us adding additional localizations.
 1. Plugin Page
 
 == Changelog ==
+
+= 1.0.26 =
+
+* Now also lists plugins that have not been updated in the WordPress.org Plugin Directory in over two years.
+* Refreshed removed plugin list with data from April 9, 2014
 
 = 1.0.25 =
 
