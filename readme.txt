@@ -51,6 +51,10 @@ Please let us know if you are interested in us adding additional localizations.
 
 == Changelog ==
 
+= 1.0.27 =
+
+* Refreshed removed plugin list with data from May 8, 2014
+
 = 1.0.26 =
 
 * Now also lists plugins that have not been updated in the WordPress.org Plugin Directory in over two years.

@@ -1,6 +1,7 @@
 ad-wizz,http://secunia.com/advisories/43964/
 all-in-one-adsense-and-ypn,http://secunia.com/advisories/45579/
 category-list-portfolio-page,http://secunia.com/advisories/46088/
+comment-rating,http://secunia.com/advisories/52348/
 conduit-banner-selector,http://secunia.com/advisories/43062/
 contact-form-wordpress,http://secunia.com/advisories/46434/
 contus-hd-flv-player,http://secunia.com/advisories/45672/
@@ -9,7 +10,6 @@ dp-thumbnail,http://secunia.com/advisories/46090/
 easy-contact-forms-exporter,http://secunia.com/advisories/49450/
 events-manager-extended,http://secunia.com/advisories/41294/
 featured-content,http://secunia.com/advisories/43064/
-feedlist,http://secunia.com/advisories/42197/
 fmoblog,http://secunia.com/advisories/34341/
 front-file-manager,http://secunia.com/advisories/49428/
 grapefile,http://secunia.com/advisories/45719/
