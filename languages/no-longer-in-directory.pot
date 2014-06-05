@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: No Longer in Directory\n"
 "Report-Msgid-Bugs-To: http://www.whitefirdesign.com/no-longer-in-directory\n"
 "POT-Creation-Date: 2012-03-15 13:30-0700\n"
-"PO-Revision-Date: 2012-04-30 15:43-0300\n"
+"PO-Revision-Date: 2016-06-04 15:43-0300\n"
 "Last-Translator: White Fir Design <contact@whitefirdesign.com>\n"
 "Language-Team: White Fir Design <contact@whitefirdesign.com>\n"
 "MIME-Version: 1.0\n"
@@ -14,11 +14,19 @@ msgstr ""
 msgid "Checks for installed plugins that are no longer in the WordPress.org Plugin Directory."
 msgstr ""
 
-#: no-longer-in-directory.php:75
+#: no-longer-in-directory.php:86
 msgid "Installed plugins that are no longer in the WordPress.org Plugin Directory:"
 msgstr ""
 
-#: no-longer-in-directory.php:88
+#: no-longer-in-directory.php:100
 msgid "No installed plugins are no longer in the WordPress.org Plugin Directory."
+msgstr ""
+
+#: no-longer-in-directory.php:104
+msgid "Installed plugins that have not been updated for over two years in the WordPress.org Plugin Directory:"
+msgstr ""
+
+#: no-longer-in-directory.php:113
+msgid "No installed plugins were last updated over two years ago in the WordPress.org Plugin Directory."
 msgstr ""
 

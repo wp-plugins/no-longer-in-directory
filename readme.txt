@@ -1,7 +1,7 @@
 ﻿=== No Longer in Directory ===
 Contributors: WhiteFirDesign
 Tags: security, plugins
-Requires at least: 3.3.1
+Requires at least: 3.3
 Tested up to: 3.9
 Stable tag: trunk
 License: GPLv2
@@ -50,6 +50,11 @@ Please let us know if you are interested in us adding additional localizations.
 1. Plugin Page
 
 == Changelog ==
+
+= 1.0.28 =
+
+* Refreshed removed plugin list with data from June 5, 2014
+* Updated German and Spanish localizations
 
 = 1.0.27 =
 
