@@ -51,6 +51,11 @@ Please let us know if you are interested in us adding additional localizations.
 
 == Changelog ==
 
+= 1.0.32 =
+
+* Updated plugin check code to handle double checks over HTTPS
+* Refreshed removed and no longer updated plugin lists with data from October 1, 2014
+
 = 1.0.31 =
 
 * Refreshed removed and no longer updated plugin lists with data from September 4, 2014
