@@ -23,11 +23,11 @@ When a plugin is removed from the WordPress.org Plugin Directory no warning is p
 
 If the plugin contains a security vulnerability the website could be vulnerable to being exploited until the plugin is deleted from the installation or a security update is released and applied.
 
-If you want WordPress to begin alerting when installed plugins have been removed from the directory please make sure to <a href="http://wordpress.org/extend/ideas/topic/alert-when-installed-plugins-have-been-removed-from-the-plugin-directory">vote for implementing that in WordPress</a>. In the mean time, this plugin adds a page to WordPress to check if any plugins installed in WordPress are on a list of plugins that are no longer in the WordPress.org Plugin Directory so that WordPress administrators are alerted to the issue.
+If you want WordPress to begin alerting when installed plugins have been removed from the directory please make sure to <a href="https://wordpress.org/extend/ideas/topic/alert-when-installed-plugins-have-been-removed-from-the-plugin-directory">vote for implementing that in WordPress</a>. In the mean time, this plugin adds a page to WordPress to check if any plugins installed in WordPress are on a list of plugins that are no longer in the WordPress.org Plugin Directory so that WordPress administrators are alerted to the issue.
 
 The plugin will also separately list any plugins that have not been updated in the WordPress.org Plugin Directory in over two years.
 
-For removed plugins that have a Secunia Advisory for a security vulnerability, a link to that advisory is included in the results of the check.
+For removed plugins that have a security advisory for a security vulnerability, a link to that advisory is included in the results of the check. You can see what vulnerabilities have existed in all of the plugins you use with our <a href="https://wordpress.org/plugins/plugin-vulnerabilities/">Plugin Vulnerabilities plugin</a>.
 
 To insure that plugins that have returned to the WordPress.org Plugin Directory since the list was last updated are not incorrectly warned about, the plugin rechecks the WordPress.org Plugin Directory to confirm any installed plugins that are on the list have not returned to the directory.
 
@@ -43,13 +43,20 @@ Please let us know if you are interested in us adding additional localizations.
 
 2. Activate the plugin.
 
-3. Click the No Longer in Directory items in the Plugins Menu to see results.
+3. Click the No Longer in Directory item in the Plugins Menu to see results.
 
 == Screenshots ==
 
 1. Plugin Page
 
 == Changelog ==
+
+= 1.0.34 =
+
+* Refreshed removed and no longer updated plugin lists with data from December 1, 2014
+* Added additional security advisories
+* Corrected German localization
+* Minor code cleanup
 
 = 1.0.33 =
 

@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: No Longer in Directory
-Plugin URI: http://www.whitefirdesign.com/no-longer-in-directory
+Plugin URI: https://www.whitefirdesign.com/no-longer-in-directory
 Description: Checks for installed plugins that are no longer in the WordPress.org Plugin Directory.
-Version: 1.0.33
+Version: 1.0.34
 Author: White Fir Design
-Author URI: http://www.whitefirdesign.com/
+Author URI: https://www.whitefirdesign.com/
 License: GPLv2
 Text Domain: no-longer-in-directory
 Domain Path: /languages
@@ -57,13 +57,13 @@ function no_longer_in_directory_page() {
 	//Check for installed plugins that are no longer in the WordPress.org Plugin Directory
 	foreach ( $plugin_list_paths as &$value ) {
 		preg_match_all('/([a-z0-9\-]+)\//', $value, $plugin_path);
-		if ( in_array ($plugin_path[1][0], $disappeared_plugins )) {
+		if ( isset ($plugin_path[1][0]) && in_array ($plugin_path[1][0], $disappeared_plugins )) {
 			//Check that plugin has not returned to the WordPress.org Plugin Directory since plugin list last generated
 			$directory_plugin_head = wp_remote_head('https://wordpress.org/plugins/'.$plugin_path[1][0].'/');
 			if ( $directory_plugin_head ['response']['code'] == "404" )
 				$no_longer_in_directory[$plugin_list[$value]['Name']]= $plugin_path[1][0];
 		}
-		else if ( in_array ($plugin_path[1][0], $two_year_plugins )) {
+		else if ( isset ($plugin_path[1][0]) && in_array ($plugin_path[1][0], $two_year_plugins )) {
 			//Check that plugin has not been updated in the WordPress.org Plugin Directory since plugin list last generated
 			$directory_plugin_get = wp_remote_get('https://wordpress.org/plugins/'.$plugin_path[1][0].'/', array('body'));
 			if ( strpos($directory_plugin_get[body], "It may no longer be maintained or supported and may have compatibility issues when used with more recent versions of WordPress"))
@@ -75,12 +75,12 @@ function no_longer_in_directory_page() {
 	echo '<div class="wrap">';
 	echo '<h2>No Longer in Directory</h2>';
 	if ( !empty($no_longer_in_directory)  ) {
-		//Load Secunia advisories
-		$secunia_file = fopen(dirname( __FILE__ ) . '/secunia-advisories.txt', "r");
-		$secunia_advisories = array();
-		while (!feof($secunia_file) ) { 
-			$line = fgetcsv($secunia_file, 1024, ","); 
-			$secunia_advisories[$line[0]] = $line[1]; 
+		//Load security advisories
+		$security_advisory_file = fopen(dirname( __FILE__ ) . '/security-advisories.txt', "r");
+		$security_advisories = array();
+		while (!feof($security_advisory_file) ) { 
+			$line = fgetcsv($security_advisory_file, 1024, ","); 
+			$security_advisories[$line[0]] = $line[1]; 
 		}
 
 		echo "<h3>".__('Installed plugins that are no longer in the WordPress.org Plugin Directory:', 'no-longer-in-directory')."</h3>";
@@ -88,9 +88,9 @@ function no_longer_in_directory_page() {
 		foreach ( $no_longer_in_directory as $plugin_name => &$plugin_stub ) {
 			echo $plugin_name;
 
-			//Check for Secunia advisory
-			if (array_key_exists($plugin_stub, $secunia_advisories))
-				echo ' (<a href="'.$secunia_advisories[$plugin_stub].'" target="_blank">Secunia Advisory</a>)';
+			//Check for security advisory
+			if (array_key_exists($plugin_stub, $security_advisories))
+				echo ' (<a href="'.$security_advisories[$plugin_stub].'" target="_blank">Security Advisory</a>)';
 				
 			echo '</li><br />';
 		}
