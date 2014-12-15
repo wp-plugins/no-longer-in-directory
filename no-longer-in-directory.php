@@ -113,6 +113,6 @@ function no_longer_in_directory_page() {
 	}
 	else 
 		echo "<h3>".__('No installed plugins were last updated over two years ago in the WordPress.org Plugin Directory.', 'no-longer-in-directory')."</h3>";
-	echo '<br><br><br>Get alerted when vulnerabilities exist in the plugins you have installed with our new <a href="http://localhost/wordpress/wp-admin/plugin-install.php?tab=plugin-information&plugin=plugin-vulnerabilities&TB_iframe=true&width=600&height=550" class="thickbox">Plugin Vulnerabilties plugin</a>.';
+	echo '<br><br><br>Get alerted when vulnerabilities exist in the plugins you have installed with our new <a href="http://localhost/wordpress/wp-admin/plugin-install.php?tab=plugin-information&plugin=plugin-vulnerabilities&TB_iframe=true&width=600&height=550" class="thickbox">Plugin Vulnerabilities plugin</a>.';
 	echo '</div>';
 }
