@@ -7,6 +7,7 @@ conduit-banner-selector,http://secunia.com/advisories/43062/
 contact-form-wordpress,http://secunia.com/advisories/46434/
 contus-hd-flv-player,http://secunia.com/advisories/45672/
 contus-video-galleryversion-10,http://secunia.com/advisories/49494/
+db-backup,http://www.exploit-db.com/exploits/35378/
 dp-thumbnail,http://secunia.com/advisories/46090/
 easy-contact-forms-exporter,http://secunia.com/advisories/49450/
 events-manager-extended,http://secunia.com/advisories/41294/
@@ -24,6 +25,7 @@ is-human,http://secunia.com/advisories/44627/
 iwant-one-ihave-one,http://secunia.com/advisories/43467/
 kish-guest-posting,http://secunia.com/advisories/47688/
 lb-mixed-slideshow,http://secunia.com/advisories/49610/
+lightbox-photo-gallery,http://packetstormsecurity.com/files/129507/WordPress-Lightbox-Photo-Gallery-1.0-CSRF-XSS.html
 lim4wp,http://secunia.com/advisories/49609/
 lisl-last-image-slider,http://secunia.com/advisories/46108/
 meenews,http://secunia.com/advisories/46969/
@@ -38,6 +40,7 @@ phpfreechat,http://secunia.com/advisories/49826/
 pica-photo-gallery,http://secunia.com/advisories/49467/
 plugin-newsletter,http://secunia.com/advisories/49464/
 quick-post-widget,http://secunia.com/advisories/49798/
+really-easy-slider,http://www.exploit-db.com/exploits/17872/
 register-plus,http://secunia.com/advisories/42360/
 rekt-slideshow,http://secunia.com/advisories/46098/
 rent-a-car,http://secunia.com/advisories/46100/
@@ -45,6 +48,9 @@ rss-feed-reader,http://secunia.com/advisories/43071/
 seo-watcher,http://packetstormsecurity.com/files/123493/WordPress-SEO-Watcher-Remote-Code-Execution.html
 sfbrowser,http://secunia.com/advisories/49466/
 simple-download-button-shortcode,http://secunia.com/advisories/49462/
+simple-visitor-stat,http://packetstormsecurity.com/files/129502/WordPress-Simple-Visitor-Stat-Cross-Site-Scripting.html
+sliding-recent-posts,http://packetstormsecurity.com/files/129504/WordPress-Sliding-Recent-Posts-1.0-CSRF-XSS.html
+sliding-social-icons,http://packetstormsecurity.com/files/129509/WordPress-Sliding-Social-Icons-1.61-CSRF-XSS.html
 socialfit,http://secunia.com/advisories/49819/
 socialgrid,http://secunia.com/advisories/44256/
 tagninja,http://secunia.com/advisories/43132/
@@ -59,10 +65,8 @@ wordpress-whois-search,http://secunia.com/advisories/47428/
 wp-ajax-recent-posts,http://secunia.com/advisories/44348/
 wp-css,http://secunia.com/advisories/45734/
 wp-custom-pages,http://secunia.com/advisories/43963/
-wpeasystats,http://secunia.com/advisories/46069/
 wp-effective-lead-management,http://secunia.com/advisories/50166/
 wp-featured-post-with-thumbnail,http://secunia.com/advisories/43072/
-wpforum,http://secunia.com/advisories/43552/
 wp-html-sitemap,https://security.dxw.com/advisories/csrf-vulnerability-in-wp-html-sitemap-1-2/
 wp-menu-creator,http://secunia.com/advisories/45674/
 wp-photo-album,http://secunia.com/advisories/44351/
@@ -70,6 +74,9 @@ wp-predict,http://secunia.com/advisories/49843/
 wp-safe-search,http://secunia.com/advisories/42544/
 wp-simplemail,http://secunia.com/advisories/50208/
 wp-starsratebox,http://secunia.com/advisories/44257/
+wp-timed-popup,http://packetstormsecurity.com/files/129510/WordPress-Timed-Popup-1.3-CSRF-XSS.html
+wpeasystats,http://secunia.com/advisories/46069/
+wpforum,http://secunia.com/advisories/43552/
 x7host-videox7-ugc-plugin,http://secunia.com/advisories/43069/
 yahoo-answers-autoposter,http://secunia.com/advisories/48862/
 yt-audio-streaming-audio-from-youtube,http://secunia.com/advisories/43539/

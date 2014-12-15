@@ -3,7 +3,7 @@
 Plugin Name: No Longer in Directory
 Plugin URI: https://www.whitefirdesign.com/no-longer-in-directory
 Description: Checks for installed plugins that are no longer in the WordPress.org Plugin Directory.
-Version: 1.0.34
+Version: 1.0.35
 Author: White Fir Design
 Author URI: https://www.whitefirdesign.com/
 License: GPLv2
@@ -43,6 +43,8 @@ function no_longer_in_directory_add_pages() {
 add_action('admin_menu', 'no_longer_in_directory_add_pages');
 
 function no_longer_in_directory_page() {
+	wp_enqueue_script('plugin-install');
+	add_thickbox();
 
 	$plugin_list = get_plugins();
 	$plugin_list_paths = array_keys($plugin_list);
@@ -66,7 +68,7 @@ function no_longer_in_directory_page() {
 		else if ( isset ($plugin_path[1][0]) && in_array ($plugin_path[1][0], $two_year_plugins )) {
 			//Check that plugin has not been updated in the WordPress.org Plugin Directory since plugin list last generated
 			$directory_plugin_get = wp_remote_get('https://wordpress.org/plugins/'.$plugin_path[1][0].'/', array('body'));
-			if ( strpos($directory_plugin_get[body], "It may no longer be maintained or supported and may have compatibility issues when used with more recent versions of WordPress"))
+			if ( strpos($directory_plugin_get['body'], "It may no longer be maintained or supported and may have compatibility issues when used with more recent versions of WordPress"))
 				$not_updated_in_over_two_years[$plugin_list[$value]['Name']]= $plugin_path[1][0];
 		}
 	}
@@ -111,5 +113,6 @@ function no_longer_in_directory_page() {
 	}
 	else 
 		echo "<h3>".__('No installed plugins were last updated over two years ago in the WordPress.org Plugin Directory.', 'no-longer-in-directory')."</h3>";
+	echo '<br><br><br>Get alerted when vulnerabilities exist in the plugins you have installed with our new <a href="http://localhost/wordpress/wp-admin/plugin-install.php?tab=plugin-information&plugin=plugin-vulnerabilities&TB_iframe=true&width=600&height=550" class="thickbox">Plugin Vulnerabilties plugin</a>.';
 	echo '</div>';
 }
