@@ -2,6 +2,7 @@ ad-wizz,http://secunia.com/advisories/43964/
 ajax-pagination,https://security.dxw.com/advisories/end-user-exploitable-local-file-inclusion-vulnerability-in-ajax-pagination-twitter-style-1-1/
 all-in-one-adsense-and-ypn,http://secunia.com/advisories/45579/
 category-list-portfolio-page,http://secunia.com/advisories/46088/
+cip4-folder-download-widget,http://packetstormsecurity.com/files/130009/WordPress-CIP4-Folder-Download-1.10-Local-File-Inclusion.html
 comment-rating,http://secunia.com/advisories/52348/
 conduit-banner-selector,http://secunia.com/advisories/43062/
 contact-form-wordpress,http://secunia.com/advisories/46434/
@@ -18,6 +19,7 @@ fmoblog,http://secunia.com/advisories/34341/
 fourteen-extended,https://security.dxw.com/advisories/reflected-xss-in-fourteen-extended-allows-arbitrary-javascript-to-be-run-in-administrator-session/
 front-file-manager,http://secunia.com/advisories/49428/
 gd-star-rating,https://security.dxw.com/advisories/csrf-and-blind-sql-injection-in-gd-star-rating-1-9-22/
+google-mp3-audio-player,http://www.exploit-db.com/exploits/35460/
 grapefile,http://secunia.com/advisories/45719/
 gslideshow,http://packetstormsecurity.com/files/129637/WordPress-gSlideShow-0.1-CSRF-XSS.html
 hd-webplayer,http://secunia.com/advisories/50466/
@@ -57,6 +59,7 @@ rss-feed-reader,http://secunia.com/advisories/43071/
 seo-watcher,http://packetstormsecurity.com/files/123493/WordPress-SEO-Watcher-Remote-Code-Execution.html
 sfbrowser,http://secunia.com/advisories/49466/
 simple-download-button-shortcode,http://secunia.com/advisories/49462/
+simple-security,https://www.htbridge.com/advisory/HTB23244
 simple-visitor-stat,http://packetstormsecurity.com/files/129502/WordPress-Simple-Visitor-Stat-Cross-Site-Scripting.html
 simpleflickr,http://packetstormsecurity.com/files/129642/WordPress-SimpleFlickr-3.0.3-CSRF-XSS.html
 simplelife,http://packetstormsecurity.com/files/129641/WordPress-Simplelife-1.2-CSRF-XSS.html
