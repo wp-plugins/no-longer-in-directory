@@ -1,4 +1,5 @@
 ad-wizz,http://secunia.com/advisories/43964/
+acobot,http://packetstormsecurity.com/files/130306/WordPress-Acobot-Live-Chat-And-Contact-Form-2.0-CSRF-XSS.html
 ajax-pagination,https://security.dxw.com/advisories/end-user-exploitable-local-file-inclusion-vulnerability-in-ajax-pagination-twitter-style-1-1/
 all-in-one-adsense-and-ypn,http://secunia.com/advisories/45579/
 category-list-portfolio-page,http://secunia.com/advisories/46088/
@@ -8,6 +9,7 @@ conduit-banner-selector,http://secunia.com/advisories/43062/
 contact-form-wordpress,http://secunia.com/advisories/46434/
 contus-hd-flv-player,http://secunia.com/advisories/45672/
 contus-video-galleryversion-10,http://secunia.com/advisories/49494/
+crossslide-jquery-plugin-for-wordpress,http://packetstormsecurity.com/files/130313/WordPress-Cross-Slide-2.0.5-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
 dandyid-services,http://packetstormsecurity.com/files/129575/WordPress-DandyID-Services-ID-1.5.9-CSRF-XSS.html
 db-backup,http://www.exploit-db.com/exploits/35378/
 disclosure-policy-plugin,http://www.exploit-db.com/exploits/17865/
@@ -38,6 +40,7 @@ meenews,http://secunia.com/advisories/46969/
 member-approval,https://security.dxw.com/advisories/csrf-in-member-approval-131109-permits-unapproved-registrations/
 mikiurl-wordpress-eklentisi,http://packetstormsecurity.com/files/129577/Mikiurl-WordPress-Eklentisi-2.0-CSRF-XSS.html
 mm-forms-community,http://secunia.com/advisories/49411/
+mobile-domain,http://packetstormsecurity.com/files/130316/WordPress-Mobile-Domain-1.5.2-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
 mz-jajak,http://secunia.com/advisories/50217/
 nextgen-smooth-gallery,http://secunia.com/advisories/40858/
 o2tweet,http://packetstormsecurity.com/files/129578/WordPress-O2Tweet-0.0.4-CSRF-XSS.html
@@ -51,7 +54,9 @@ plugin-newsletter,http://secunia.com/advisories/49464/
 post-to-twitter,http://packetstormsecurity.com/files/129639/WordPress-Twitter-0.7-CSRF-XSS.html
 pwgrandom,http://packetstormsecurity.com/files/129640/WordPress-PWG-Random-1.11-CSRF-XSS.html
 quick-post-widget,http://secunia.com/advisories/49798/
+ready-ecommerce,https://vexatioustendencies.com/wordpress-plugin-vulnerability-dump-part-1/
 really-easy-slider,http://www.exploit-db.com/exploits/17872/
+redirection-page,http://packetstormsecurity.com/files/130314/WordPress-Redirection-Page-1.2-CSRF-XSS.html
 register-plus,http://secunia.com/advisories/42360/
 rekt-slideshow,http://secunia.com/advisories/46098/
 rent-a-car,http://secunia.com/advisories/46100/
@@ -75,6 +80,7 @@ twimp-wp,http://packetstormsecurity.com/files/129643/WordPress-twimp-wp-Cross-Si
 twitter-liveblog,http://packetstormsecurity.com/files/129644/WordPress-Twitter-LiveBlog-1.1.2-CSRF-XSS.html
 twitterdash,http://packetstormsecurity.com/files/129579/WordPress-twitterDash-2.1-CSRF-XSS.html
 ucan-post,http://secunia.com/advisories/47656/
+uploader,http://www.opensyscom.fr/Actualites/wordpress-plugins-uploader-arbitrary-file-upload-vulnerability.html
 upm-polls,http://secunia.com/advisories/47182/
 vk-gallery,http://secunia.com/advisories/46092/
 vodpod-video-gallery,http://secunia.com/advisories/42195
