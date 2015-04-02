@@ -1,7 +1,12 @@
 ad-wizz,http://secunia.com/advisories/43964/
 acobot,http://packetstormsecurity.com/files/130306/WordPress-Acobot-Live-Chat-And-Contact-Form-2.0-CSRF-XSS.html
+ad-minister,https://www.htbridge.com/advisory/HTB23187
 ajax-pagination,https://security.dxw.com/advisories/end-user-exploitable-local-file-inclusion-vulnerability-in-ajax-pagination-twitter-style-1-1/
 all-in-one-adsense-and-ypn,http://secunia.com/advisories/45579/
+aspose-cloud-ebook-generator,http://packetstormsecurity.com/files/131040/WordPress-Aspose-Cloud-eBook-Generator-File-Download.html
+aspose-doc-exporter,http://packetstormsecurity.com/files/131167/WordPress-Aspose-Doc-Exporter-File-Download.html
+aspose-importer-exporter,http://packetstormsecurity.com/files/131162/WordPress-Aspose-Importer-Exporter-1.0-File-Download.html
+aspose-pdf-exporter,http://packetstormsecurity.com/files/131161/WordPress-Aspose-PDF-Exporter-File-Download.html
 category-list-portfolio-page,http://secunia.com/advisories/46088/
 cip4-folder-download-widget,http://packetstormsecurity.com/files/130009/WordPress-CIP4-Folder-Download-1.10-Local-File-Inclusion.html
 comment-rating,http://secunia.com/advisories/52348/
@@ -19,13 +24,14 @@ events-manager-extended,http://secunia.com/advisories/41294/
 featured-content,http://secunia.com/advisories/43064/
 fmoblog,http://secunia.com/advisories/34341/
 fourteen-extended,https://security.dxw.com/advisories/reflected-xss-in-fourteen-extended-allows-arbitrary-javascript-to-be-run-in-administrator-session/
-front-file-manager,http://secunia.com/advisories/49428/
+front-file-manager,http://www.exploit-db.com/exploits/19012/
 gd-star-rating,https://security.dxw.com/advisories/csrf-and-blind-sql-injection-in-gd-star-rating-1-9-22/
 google-mp3-audio-player,http://www.exploit-db.com/exploits/35460/
 grapefile,http://secunia.com/advisories/45719/
+gravity-file-ajax-upload-free,https://research.g0blin.co.uk/cve-2014-4972/
 gslideshow,http://packetstormsecurity.com/files/129637/WordPress-gSlideShow-0.1-CSRF-XSS.html
 hd-webplayer,http://secunia.com/advisories/50466/
-html5avmanager,http://secunia.com/advisories/49390/
+html5avmanager,http://www.opensyscom.fr/Actualites/wordpress-plugins-html5-av-manager-shell-upload-vulnerability.html
 hungred-post-thumbnail,http://secunia.com/advisories/49447/
 invit0r,http://secunia.com/advisories/49519/
 is-human,http://secunia.com/advisories/44627/
@@ -64,7 +70,6 @@ rss-feed-reader,http://secunia.com/advisories/43071/
 seo-watcher,http://packetstormsecurity.com/files/123493/WordPress-SEO-Watcher-Remote-Code-Execution.html
 sfbrowser,http://secunia.com/advisories/49466/
 simple-download-button-shortcode,http://secunia.com/advisories/49462/
-simple-security,https://www.htbridge.com/advisory/HTB23244
 simple-visitor-stat,http://packetstormsecurity.com/files/129502/WordPress-Simple-Visitor-Stat-Cross-Site-Scripting.html
 simpleflickr,http://packetstormsecurity.com/files/129642/WordPress-SimpleFlickr-3.0.3-CSRF-XSS.html
 simplelife,http://packetstormsecurity.com/files/129641/WordPress-Simplelife-1.2-CSRF-XSS.html
@@ -105,6 +110,7 @@ wp-unique-article-header-image,http://packetstormsecurity.com/files/129646/WordP
 wpcommenttwit,http://packetstormsecurity.com/files/129581/WordPress-wpCommentTwit-0.5-CSRF-XSS.html
 wpeasystats,http://secunia.com/advisories/46069/
 wpforum,http://secunia.com/advisories/43552/
+x-forms-express,https://research.g0blin.co.uk/cve-2014-7151/
 x7host-videox7-ugc-plugin,http://secunia.com/advisories/43069/
 yahoo-answers-autoposter,http://secunia.com/advisories/48862/
 yt-audio-streaming-audio-from-youtube,http://secunia.com/advisories/43539/
