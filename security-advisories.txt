@@ -3,15 +3,13 @@ acobot,http://packetstormsecurity.com/files/130306/WordPress-Acobot-Live-Chat-An
 ad-minister,https://www.htbridge.com/advisory/HTB23187
 ajax-pagination,https://security.dxw.com/advisories/end-user-exploitable-local-file-inclusion-vulnerability-in-ajax-pagination-twitter-style-1-1/
 all-in-one-adsense-and-ypn,http://secunia.com/advisories/45579/
-aspose-cloud-ebook-generator,http://packetstormsecurity.com/files/131040/WordPress-Aspose-Cloud-eBook-Generator-File-Download.html
-aspose-doc-exporter,http://packetstormsecurity.com/files/131167/WordPress-Aspose-Doc-Exporter-File-Download.html
-aspose-importer-exporter,http://packetstormsecurity.com/files/131162/WordPress-Aspose-Importer-Exporter-1.0-File-Download.html
-aspose-pdf-exporter,http://packetstormsecurity.com/files/131161/WordPress-Aspose-PDF-Exporter-File-Download.html
 category-list-portfolio-page,http://secunia.com/advisories/46088/
 cip4-folder-download-widget,http://packetstormsecurity.com/files/130009/WordPress-CIP4-Folder-Download-1.10-Local-File-Inclusion.html
+citizen-space,https://security.dxw.com/advisories/reflected-xss-in-citizen-space-allows-attackers-to-view-sensitive-information-of-the-attackers-choosing/
 comment-rating,http://secunia.com/advisories/52348/
 conduit-banner-selector,http://secunia.com/advisories/43062/
 contact-form-wordpress,http://secunia.com/advisories/46434/
+content-slide,https://security.dxw.com/advisories/csrf-and-stored-xss-in-wordpress-content-slide-allow-an-attacker-to-have-full-admin-privileges/
 contus-hd-flv-player,http://secunia.com/advisories/45672/
 contus-video-galleryversion-10,http://secunia.com/advisories/49494/
 crossslide-jquery-plugin-for-wordpress,http://packetstormsecurity.com/files/130313/WordPress-Cross-Slide-2.0.5-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
@@ -33,6 +31,7 @@ gslideshow,http://packetstormsecurity.com/files/129637/WordPress-gSlideShow-0.1-
 hd-webplayer,http://secunia.com/advisories/50466/
 html5avmanager,http://www.opensyscom.fr/Actualites/wordpress-plugins-html5-av-manager-shell-upload-vulnerability.html
 hungred-post-thumbnail,http://secunia.com/advisories/49447/
+i-dump-iphone-to-wordpress-photo-uploader,http://packetstormsecurity.com/files/131363/WordPress-Windows-Desktop-And-iPhone-Photo-Uploader-File-Upload.html
 invit0r,http://secunia.com/advisories/49519/
 is-human,http://secunia.com/advisories/44627/
 itwitter,http://packetstormsecurity.com/files/129576/WordPress-iTwitter-WP-0.04-CSRF-XSS.html
@@ -80,6 +79,7 @@ socialgrid,http://secunia.com/advisories/44256/
 spnbabble,http://packetstormsecurity.com/files/129580/WordPress-SPNbabble-1.4.1-CSRF-XSS.html
 tagninja,http://secunia.com/advisories/43132/
 thinkun-remind,http://secunia.com/advisories/49461/
+trafficanalyzer,http://www.exploit-db.com/exploits/36677/
 tweetscribe,http://packetstormsecurity.com/files/129645/WordPress-TweetScribe-1.1-CSRF-XSS.html
 twimp-wp,http://packetstormsecurity.com/files/129643/WordPress-twimp-wp-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
 twitter-liveblog,http://packetstormsecurity.com/files/129644/WordPress-Twitter-LiveBlog-1.1.2-CSRF-XSS.html
@@ -100,6 +100,7 @@ wp-featured-post-with-thumbnail,http://secunia.com/advisories/43072/
 wp-html-sitemap,https://security.dxw.com/advisories/csrf-vulnerability-in-wp-html-sitemap-1-2/
 wp-limit-posts-automatically,http://packetstormsecurity.com/files/129647/WordPress-WP-Limit-Posts-Automatically-0.7-CSRF-XSS.html
 wp-menu-creator,http://secunia.com/advisories/45674/
+wp-mon,http://en.1337day.com/exploit/23532
 wp-photo-album,http://secunia.com/advisories/44351/
 wp-predict,http://secunia.com/advisories/49843/
 wp-safe-search,http://secunia.com/advisories/42544/
