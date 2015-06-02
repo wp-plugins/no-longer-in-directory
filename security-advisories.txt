@@ -1,5 +1,6 @@
 ad-wizz,http://secunia.com/advisories/43964/
 acobot,http://packetstormsecurity.com/files/130306/WordPress-Acobot-Live-Chat-And-Contact-Form-2.0-CSRF-XSS.html
+ad-buttons,http://packetstormsecurity.com/files/131823/WordPress-Ad-Buttons-2.3.1-CSRF-Cross-Site-Scripting.html
 ad-minister,https://www.htbridge.com/advisory/HTB23187
 ajax-pagination,https://security.dxw.com/advisories/end-user-exploitable-local-file-inclusion-vulnerability-in-ajax-pagination-twitter-style-1-1/
 all-in-one-adsense-and-ypn,http://secunia.com/advisories/45579/
@@ -18,6 +19,7 @@ db-backup,http://www.exploit-db.com/exploits/35378/
 disclosure-policy-plugin,http://www.exploit-db.com/exploits/17865/
 dp-thumbnail,http://secunia.com/advisories/46090/
 easy-contact-forms-exporter,http://secunia.com/advisories/49450/
+embed-articles,http://packetstormsecurity.com/files/131797/WordPress-Embed-Articles-7.0.3-CSRF-XSS.html
 events-manager-extended,http://secunia.com/advisories/41294/
 featured-content,http://secunia.com/advisories/43064/
 fmoblog,http://secunia.com/advisories/34341/
@@ -44,6 +46,7 @@ lisl-last-image-slider,http://secunia.com/advisories/46108/
 meenews,http://secunia.com/advisories/46969/
 member-approval,https://security.dxw.com/advisories/csrf-in-member-approval-131109-permits-unapproved-registrations/
 mikiurl-wordpress-eklentisi,http://packetstormsecurity.com/files/129577/Mikiurl-WordPress-Eklentisi-2.0-CSRF-XSS.html
+miwoftp,http://www.zeroscience.mk/en/vulnerabilities/ZSL-2015-5242.php
 mm-forms-community,http://secunia.com/advisories/49411/
 mobile-domain,http://packetstormsecurity.com/files/130316/WordPress-Mobile-Domain-1.5.2-Cross-Site-Request-Forgery-Cross-Site-Scripting.html
 mz-jajak,http://secunia.com/advisories/50217/
@@ -95,11 +98,13 @@ wordpress-whois-search,http://secunia.com/advisories/47428/
 wp-ajax-recent-posts,http://secunia.com/advisories/44348/
 wp-css,http://secunia.com/advisories/45734/
 wp-custom-pages,http://secunia.com/advisories/43963/
+wp-easy-slideshow,http://www.exploit-db.com/exploits/36612/
 wp-effective-lead-management,http://secunia.com/advisories/50166/
 wp-featured-post-with-thumbnail,http://secunia.com/advisories/43072/
 wp-html-sitemap,https://security.dxw.com/advisories/csrf-vulnerability-in-wp-html-sitemap-1-2/
 wp-limit-posts-automatically,http://packetstormsecurity.com/files/129647/WordPress-WP-Limit-Posts-Automatically-0.7-CSRF-XSS.html
 wp-menu-creator,http://secunia.com/advisories/45674/
+wp-mon,http://en.1337day.com/exploit/23532
 wp-mon,http://en.1337day.com/exploit/23532
 wp-photo-album,http://secunia.com/advisories/44351/
 wp-predict,http://secunia.com/advisories/49843/
