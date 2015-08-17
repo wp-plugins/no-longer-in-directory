@@ -2,7 +2,7 @@
 Contributors: WhiteFirDesign
 Tags: security, plugins
 Requires at least: 3.3
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,6 +50,10 @@ Please let us know if you are interested in us adding additional localizations.
 1. Plugin Page
 
 == Changelog ==
+
+= 1.0.43 =
+
+* Refreshed removed and no longer updated plugin lists with data from August 17, 2015
 
 = 1.0.42 =
 
