@@ -51,6 +51,10 @@ Please let us know if you are interested in us adding additional localizations.
 
 == Changelog ==
 
+= 1.0.44 =
+
+* Refreshed removed and no longer updated plugin lists with data from September 21, 2015
+
 = 1.0.43 =
 
 * Refreshed removed and no longer updated plugin lists with data from August 17, 2015
